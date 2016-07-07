@@ -6,6 +6,9 @@ section .container-fluid{
   padding-bottom: 50px;
 }
 /* below is the style for navigation*/
+.navbar{
+  letter-spacing: 5px;
+}
 #brand{
   font-size: 25px;
   font-weight: bold;
