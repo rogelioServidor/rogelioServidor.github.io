@@ -1,0 +1,54 @@
+body{
+  font-family: verdana;
+  color: #41403d;
+}
+.container-fluid{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.bg-1{
+  background: #41403d;
+}
+.bg-2{
+  background: #e4ac2f;
+}
+#objective{
+  text-transform: uppercase;
+  font-size: 7em;
+  font-weight: bolder;
+}
+#objective span{
+  color: #e4ac2f;
+}
+h2{
+  font-size: 3em;
+  text-transform: uppercase;
+  font-weight: bolder;
+  padding-bottom: 20px;
+}
+#education p, #experience p, #certifications p{
+  font-size: 2em;
+}
+#experience, #skills{
+  color: white;
+}
+h3{
+  font-size: 2em;
+  text-transform: uppercase;
+  color: white;
+}
+#skills p{
+  text-transform: uppercase;
+  font-size: 1.5em;
+  color: #e4ac2f;
+}
+hr{
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+a{
+  color: #e4ac2f;
+}
+footer p{
+  font-size: 1.5em;
+}
